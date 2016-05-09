@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<hotels>
+		<hotel contact="855(23) 995 725">
+			<name>IRG Office</name>
+			<type>hotel</type>
+			<rating>5</rating>
+			<address>
+				<houseNo>14E0</houseNo>
+				<street>29</street>
+				<Sangkat>Tonle Basacc</Sangkat >
+				<Khan>Chamkamorn</Khan>
+				<city>Phnom Penh</city>
+			</address>
+			<room>
+				<roomType>deluxe</roomType>
+				<price>209</price>
+				<description>Descriptions</description>
+			</room>
+			<room>
+				<roomType>standard</roomType>
+				<price>210</price>
+				<description>Descriptions</description>
+			</room>
+		</hotel>
+		<hotel contact="855(23) 995 725">
+			<name>Hotel 3</name>
+			<type>hotel</type>
+			<rating>5</rating>
+			<address>
+				<houseNo>no</houseNo>
+				<street>National Road No 5</street>
+				<Sangkat>Samaki Village</Sangkat >
+				<Khan></Khan>
+				<city></city>
+			</address>
+			<room>
+				<roomType>deluxe</roomType>
+				<price>209</price>
+				<description>Descriptions</description>
+			</room>
+			<room>
+				<roomType>standard</roomType>
+				<price>210</price>
+				<description>Descriptions</description>
+			</room>
+		</hotel>
+		<hotel contact="855(23) 995 725">
+			<name>Hotel 2</name>
+			<type>hotel</type>
+			<rating>5</rating>
+			<address>
+				<houseNo>25</houseNo>
+				<street>39</street>
+				<Sangkat>Sambuor Meas</Sangkat >
+				<Khan>Russey Keo</Khan>
+				<city>phnom penh</city>
+			</address>
+			<room>
+				<roomType>deluxe</roomType>
+				<price>209</price>
+				<description>Descriptions</description>
+			</room>
+			<room>
+				<roomType>standard</roomType>
+				<price>210</price>
+				<description>Descriptions</description>
+			</room>
+		</hotel>
+	</hotels>
